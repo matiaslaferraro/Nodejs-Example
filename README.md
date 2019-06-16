@@ -1,6 +1,3 @@
-# NodeExample
-#This is a simple NodeJs proyect example using
-  #-Bootstrap 4.
-  #-jQuery.
-  #-Css 3.
+# NodeJs Example
+This is a simple NodeJs project example using a template based of Bootstrap 4.
 
