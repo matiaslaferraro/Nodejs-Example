@@ -9,7 +9,7 @@ server.set('assets',(__dirname + "/assets")); //Seteo la dirección de la carpet
 //Middelwares
 
 //Statics
-server.use(express.static(__dirname + '/assets')); //Los archivos estáticos se encuentran dentro de esta carpeta. //Los archivos estáticos se encuentran dentro de esta carpeta.
+server.use(express.static(__dirname + '/assets')); //Los archivos estáticos se encuentran dentro de esta carpeta.
 
 //Routes: rutas 
 server.use(require('./routes/index'));
