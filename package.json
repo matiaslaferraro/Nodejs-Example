@@ -1,0 +1,22 @@
+{
+  "name": "NodeJS-Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "keywords": [],
+  "author": "Matias Daniel La Ferraro",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "startbootstrap-creative": "^5.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
