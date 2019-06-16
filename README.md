@@ -1,3 +1,3 @@
-# NodeJs Example
-This is a simple NodeJs project example using a template based of Bootstrap 4.
+# Node.js Example
+This is a simple Node.js project example using a template based of Bootstrap 4.
 
