@@ -59,3 +59,17 @@ typings/
 
 # next.js build output
 .next
+src/assets/vendor/fontawesome-free/svgs/solid/unlock-alt.svg
+*.css
+*.jpg
+*.js
+*.scss
+*.map
+*.less
+*.txt
+*.json
+*.svg
+*.eot
+*.ttf
+*.woff
+*.woff2
